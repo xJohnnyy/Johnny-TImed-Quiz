@@ -7,7 +7,7 @@ In this module challenge, created a Coding Quiz webpage. The webpage created fea
 ## Usage
 
 Image of Completed Website:
-![Completed Website](assets/images/screenshot.png)
+![Completed Website](assets/images/Screenshot 2024-01-22 at 9.12.43 PM.png)
 
 URL of the deployed webpage: 
 
